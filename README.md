@@ -10,6 +10,10 @@ control and popcorn mode, all saved per plate.
 
 ---
 
+<p align="center">
+  <img src="images/panel.png" alt="2Step panel" width="860">
+</p>
+
 ## What it does
 
 Hold the clutch, bounce off the limiter, and the exhaust answers. The player tunes the
@@ -36,6 +40,12 @@ tablet panel, and it all sticks to the plate.
 ### Presets
 
 **Three hotbar slots per vehicle**, swapped in-game without opening the menu.
+
+## Screenshots
+
+| Flame colours and sizes | Hotbar presets |
+|---|---|
+| ![Colours tab](images/colors.png) | ![Hotbar tab](images/hotbar.png) |
 
 ## Requirements
 
