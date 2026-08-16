@@ -33,7 +33,12 @@ tablet panel, and it all sticks to the plate.
 
 ### Looks
 
-- **6 flame colours**, plus flame size per vehicle
+- **30 flame colours**, picked from a swatch grid, plus flame size per vehicle
+- **Test before you save** — the panel shrinks aside, the car is locked in place, and you
+  rev to watch the flame. Swap colours mid-test and they change instantly. Nothing is
+  written until you hit Save, and nearby players see the colour you are testing
+- **Compatibility mode** in its own section, for exhausts that will not take the
+  custom colours
 - **Two UI themes** (Classic and Modern) and a free accent colour picker, saved per player
 - Draggable panel
 
@@ -43,9 +48,20 @@ tablet panel, and it all sticks to the plate.
 
 ## Screenshots
 
-| Flame colours and sizes | Hotbar presets |
-|---|---|
-| ![Colours tab](images/colors.png) | ![Hotbar tab](images/hotbar.png) |
+<p align="center">
+  <img src="images/colors.png" alt="Flame colour picker" width="860">
+</p>
+
+Testing a colour without saving. The car is frozen, the prompts follow your input
+device, and Backspace ends it:
+
+<p align="center">
+  <img src="images/test-mode.png" alt="Flame test mode" width="860">
+</p>
+
+<p align="center">
+  <img src="images/hotbar.png" alt="Hotbar presets" width="860">
+</p>
 
 ## Requirements
 
