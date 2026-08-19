@@ -106,6 +106,13 @@ exports['rgarage_2step']:SetBackfire(netId, state, sound, color)   -- server
 exports['rgarage_2step']:SyncBackfireEffect(netId, exhaust, color, isTwoStep, hide, size)
 ```
 
+## Languages
+
+**Ten languages** — English, Portuguese (BR), Spanish, French, German, Italian,
+Russian, Chinese, Japanese and Korean. 182 strings each, covering the panel, the
+antilag presets, notifications and every install step. Set `Config.Language` and edit
+`Locales.lua` freely: it ships unencrypted.
+
 ## What is open
 
 `config.lua`, `Locales.lua`, the SQL file, every framework bridge and the whole UI ship
